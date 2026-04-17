@@ -23,4 +23,7 @@ public class D {
     public void MD3() {
         System.out.println("Método: MD3()");
     }
+    public void MD5(){
+        System.out.println("Médodo: MD5()");
+    }
 }
