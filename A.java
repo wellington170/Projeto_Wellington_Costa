@@ -26,4 +26,8 @@ public class A{
         System.out.println("Método: MA2()");
     }
 
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
+
 }
